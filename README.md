@@ -50,7 +50,7 @@
 ## 📫 Connect with Me  
 
 - **LinkedIn**: [Amadou NGAM](https://www.linkedin.com/in/amadoungam/)  
-- **HuggingFace**: [Datasets & Models](https://huggingface.co/datasets)  
+- **HuggingFace**: [Datasets & Models](https://huggingface.co/ngia)  
 - **Email**: amadoungam21@gmail.com  
 
 ---

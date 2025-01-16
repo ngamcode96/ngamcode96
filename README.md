@@ -55,3 +55,5 @@
 ---
 
 💡 *Let's build the future of AI together!*  
+
+![Profile Views](https://komarev.com/ghpvc/?username=amadoungam&color=blue&style=flat)

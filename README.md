@@ -7,22 +7,13 @@
 
 ## 👋 About Me  
 
-I am a passionate **Data Scientist and AI Engineer** with a strong background in **Mathematics**, **Machine Learning**, and **Deep Learning**. My work focuses on:  
-- **Fine-tuning Large Language Models (LLMs)**  
-- **AI Agents** and **Retrieval-Augmented Generation (RAG)**  
-- Building robust **ETL/ELT data pipelines** and managing **Big Data processing**.  
-I also have hands-on experience in developing **web** and **mobile applications**, as well as deploying **Machine Learning models** on cloud platforms like **AWS** and **GCP**.  
-
----
-
-## 🛠️ Technical Skills  
-
-**Programming Languages**  
-- Python | SQL | JavaScript | Java | C | HTML/CSS | PHP  
-
-**Frameworks & Libraries**  
-- Pandas | Scikit-learn | Matplotlib | PyTorch | Transformers  
-- Streamlit | MLflow | DVC  
+- Specialized in **data collection, analysis, transformation**, and creating **Machine Learning models** for **classification**, **regression**, **clustering**, **dimensionality reduction**, and **deployment**.  
+- I am a passionate **Data Scientist and AI Engineer** with a strong background in **Mathematics**, **Machine Learning**, and **Deep Learning**.  
+- My work focuses on:  
+  - **Fine-tuning Large Language Models (LLMs)**  
+  - **AI Agents** and **Retrieval-Augmented Generation (RAG)**  
+  - Building robust **ETL/ELT data pipelines** and managing **Big Data processing**.  
+- I also have hands-on experience in developing **web** and **mobile applications**, as well as deploying **Machine Learning models** on cloud platforms like **AWS** and **GCP**.  
 
 ---
 
@@ -38,6 +29,20 @@ I also have hands-on experience in developing **web** and **mobile applications*
   - Developed a model for diabetes prediction.  
   - Performed car price estimation using regression.  
   - Customer segmentation for movie and series recommendations using clustering.  
+
+---
+
+## 🛠️ Technical Skills  
+
+**Programming Languages**  
+- Python | SQL | JavaScript | Java | C | HTML/CSS | PHP  
+
+**Frameworks & Libraries**  
+- Pandas | Scikit-learn | Matplotlib | PyTorch | Transformers  
+- Streamlit | MLflow | DVC  
+
+**Cloud Platforms**  
+- AWS | GCP  
 
 ---
 

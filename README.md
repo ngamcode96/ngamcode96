@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=amadoungam&color=blue&style=flat)
 # Hi 👋, I'm Amadou  
 
 🎓 **Master in Data Science and Artificial Intelligence** | **Dual Bachelor's Degree in Mathematics, Physics, and Computer Science**  
